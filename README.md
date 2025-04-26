@@ -1,4 +1,3 @@
-# <p align="center"> 🏙️ BuscaImovel - Banco de dados Imobiliário
 <p align="center"> <img src="https://buscaimovel.netlify.app/preview.png" alt="Preview BuscaImovel" width="800px" style="border-radius: 12px; box-shadow: 0px 0px 20px 5px #00ffff;"> </p>
 
 
@@ -15,9 +14,9 @@ O projeto está disponível no GitHub e foi hospedado no Netlify.
 A tabela da dashboard consome dados diretamente do Supabase.
 
 ## <p align="center"> 🌌 Preview do Projeto
-<p align="center"> <img src="https://i.ibb.co/Z1gs19mR/image.png" alt="Preview LandingPage" width="800px" style="border-radius: 12px; box-shadow: 0px 0px 20px 5px #00ffff;"> </p>
-<p align="center"> <img src="https://i.ibb.co/XfjRHdNJ/image.png" alt="Preview LandingPage" width="800px" style="border-radius: 12px; box-shadow: 0px 0px 20px 5px #00ffff;"> </p>
-<p align="center"> <img src="https://i.ibb.co/4gFPgQtw/image.png" alt="Preview LandingPage" width="800px" style="border-radius: 12px; box-shadow: 0px 0px 20px 5px #00ffff;"> </p>
+<p align="center"> <img src="https://i.ibb.co/Z1gs19mR/image.png" alt="Preview LandingPage" width="600px" style="border-radius: 12px; box-shadow: 0px 0px 20px 5px #00ffff;"> </p>
+<p align="center"> <img src="https://i.ibb.co/XfjRHdNJ/image.png" alt="Preview LandingPage" width="600px" style="border-radius: 12px; box-shadow: 0px 0px 20px 5px #00ffff;"> </p>
+<p align="center"> <img src="https://i.ibb.co/4gFPgQtw/image.png" alt="Preview LandingPage" width="600px" style="border-radius: 12px; box-shadow: 0px 0px 20px 5px #00ffff;"> </p>
 <p align="center"> 🔗 Acesse o projeto agora
 <p align="center"> 🚀 https://buscaimovel.netlify.app
 
