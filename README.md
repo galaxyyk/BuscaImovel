@@ -5,7 +5,7 @@
 
 O BuscaImovel é um projeto que criei utilizando a plataforma Hostinger Horizon, uma ferramenta de criação de sites baseada em prompts de inteligência artificial. A Hostinger Horizon oferece 7 dias de teste grátis, com um limite de 5 prompts por dia.
 
-O BuscaImovel funciona como um banco de dados de inscrições imobiliárias — e este próprio banco de dados também está disponível para venda.
+O BuscaImovel funciona como um banco de dados de inscrições imobiliárias — e este próprio banco de dados também está disponível para venda para outras imobiliárias.
 
 Desenvolvi a landing page, a dashboard e a página de login usando apenas 10 prompts (em 2 dias de teste). Após isso, continuei o desenvolvimento corrigindo bugs e realizando atualizações com o auxílio do ChatGPT e do DeepSeek.
 
