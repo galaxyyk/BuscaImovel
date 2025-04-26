@@ -24,4 +24,23 @@ A tabela da dashboard consome dados diretamente do Supabase.
 
 ### <p align="center"> 💻 Tecnologias Utilizadas
 
-<p align="center"> <img src="https://img.shields.io/badge/Deploy-Netlify-7F00FF?style=for-the-badge&logo=netlify&logoColor=white"><img src="https://img.shields.io/badge/Database-Supabase-00FFFF?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Built%20With-Hostinger%20Horizon-7F00FF?style=for-the-badge&logo=hostinger&logoColor=white"> <img src="https://img.shields.io/badge/Support-ChatGPT%20%26%20DeepSeek-7F00FF?style=for-the-badge&logo=openai&logoColor=white"> </p>
+<p align="center">
+<a href="https://www.hostinger.com/horizon" target="_blank">
+  <img src="https://img.shields.io/badge/Hostinger_Horizon-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger Horizon">
+</a>
+
+<a href="https://supabase.io" target="_blank">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+</a>
+
+<a href="https://www.netlify.com" target="_blank">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+</a>
+
+<a href="https://chat.openai.com/" target="_blank">
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+</a>
+
+<a href="https://deepseek.com/" target="_blank">
+  <img src="https://img.shields.io/badge/DeepSeek-0057FF?style=for-the-badge&logo=data&logoColor=white" alt="DeepSeek">
+</a>
