@@ -6,7 +6,7 @@ import { Input } from "@/components/ui/input";
 import { useToast } from "@/components/ui/use-toast";
 import { supabase } from "@/lib/supabaseClient";
 
-const ADMIN_EMAIL = "kauabiruel@proton.me";
+const ADMIN_EMAIL = "seu_email";
 const ADMIN_PASSWORD = "sua_senha_admin_segura"; // Defina uma senha forte para o admin
 
 const LoginPage = () => {
